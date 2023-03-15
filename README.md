@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @embersl
 - 👀 I’m interested in food, travel and movies
-- 🌱 I’m in love with web, email and print design. 
+- 🌱 I’m in love with screen and print based design. 
 - 💞️ I’m looking to collaborate on visual design projects
 
 <!---
